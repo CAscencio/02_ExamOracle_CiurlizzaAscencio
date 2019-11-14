@@ -1,0 +1,10 @@
+Insert into EXAMORACLE.PROPIETARIO (CODPRO,DNIPRO,NOMPRO,APEPRO,TELFPRO,DIRPRO,EMAILPRO) values ('1','12345678','Julio Cesar','Sanchez Ramos','12345678911','Av la mar ','JSanchez@gmail.com');
+Insert into EXAMORACLE.PROPIETARIO (CODPRO,DNIPRO,NOMPRO,APEPRO,TELFPRO,DIRPRO,EMAILPRO) values ('2','23565555','Ciurlizza','Ascencio Luyo','74747477474','Av Las Rosas','CAscencio@gmail.com');
+Insert into EXAMORACLE.PROPIETARIO (CODPRO,DNIPRO,NOMPRO,APEPRO,TELFPRO,DIRPRO,EMAILPRO) values ('3','35435355','Jose','Quispe Luyo','23232332322','Av las palmeras','JQuispe@gmail.com');
+Insert into EXAMORACLE.PROPIETARIO (CODPRO,DNIPRO,NOMPRO,APEPRO,TELFPRO,DIRPRO,EMAILPRO) values ('4','45355345','Sammir','Alvarado Luyo','65465465465','Av los rios','SAlvarado@gmail.com');
+Insert into EXAMORACLE.PROPIETARIO (CODPRO,DNIPRO,NOMPRO,APEPRO,TELFPRO,DIRPRO,EMAILPRO) values ('5','44243243','Luis','Mayta Ramos','34535355354','Av imperialito','LMayta@gmail.com');
+Insert into EXAMORACLE.PROPIETARIO (CODPRO,DNIPRO,NOMPRO,APEPRO,TELFPRO,DIRPRO,EMAILPRO) values ('6','12345464','Jhamil','Ventura de la Cruz','52345678911','Av los peces xd','JVentura@gmail.com');
+Insert into EXAMORACLE.PROPIETARIO (CODPRO,DNIPRO,NOMPRO,APEPRO,TELFPRO,DIRPRO,EMAILPRO) values ('7','23565333','Cleider','Huaman Ramos','88747477474','Av Las Rosas','CHuaman@gmail.com');
+Insert into EXAMORACLE.PROPIETARIO (CODPRO,DNIPRO,NOMPRO,APEPRO,TELFPRO,DIRPRO,EMAILPRO) values ('8','35435777','Jhademir','Puente Evangelista','77232332322','Av las zuñiga','JPuente@gmail.com');
+Insert into EXAMORACLE.PROPIETARIO (CODPRO,DNIPRO,NOMPRO,APEPRO,TELFPRO,DIRPRO,EMAILPRO) values ('9','45355388','Harol','Casas Luyo','88865465465','Av los nisperos','HCasas@gmail.com');
+Insert into EXAMORACLE.PROPIETARIO (CODPRO,DNIPRO,NOMPRO,APEPRO,TELFPRO,DIRPRO,EMAILPRO) values ('10','24324632','Joel','Mayta Ramos','44535355354','Av imperialito','JMayta@gmail.com');
