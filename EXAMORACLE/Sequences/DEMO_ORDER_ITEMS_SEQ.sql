@@ -1,0 +1,1 @@
+CREATE SEQUENCE examoracle.demo_order_items_seq;

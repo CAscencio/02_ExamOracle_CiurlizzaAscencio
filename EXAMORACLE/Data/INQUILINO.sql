@@ -1,0 +1,10 @@
+Insert into EXAMORACLE.INQUILINO (CODINQ,NOMINQ,APEINQ,FNACINQ,TELFINQ,DESCPINQ) values ('1','Rosa','Rodriguez Luyo',to_date('11/01/01','DD/MM/RR'),'33322244556','Casa grande con parrillas');
+Insert into EXAMORACLE.INQUILINO (CODINQ,NOMINQ,APEINQ,FNACINQ,TELFINQ,DESCPINQ) values ('2','Alejandro','Benavente Ramos',to_date('15/01/01','DD/MM/RR'),'53453345355','Casa llena de luces');
+Insert into EXAMORACLE.INQUILINO (CODINQ,NOMINQ,APEINQ,FNACINQ,TELFINQ,DESCPINQ) values ('3','Anthony','Ceperian Santiago',to_date('22/02/01','DD/MM/RR'),'35345345435','Sin detalles');
+Insert into EXAMORACLE.INQUILINO (CODINQ,NOMINQ,APEINQ,FNACINQ,TELFINQ,DESCPINQ) values ('4','Pool','Rodriguez Levano',to_date('18/05/01','DD/MM/RR'),'42354765465','Sin detalles');
+Insert into EXAMORACLE.INQUILINO (CODINQ,NOMINQ,APEINQ,FNACINQ,TELFINQ,DESCPINQ) values ('5','Robeerto','Luyo Luyo',to_date('17/06/01','DD/MM/RR'),'42757876575','Sin detalles');
+Insert into EXAMORACLE.INQUILINO (CODINQ,NOMINQ,APEINQ,FNACINQ,TELFINQ,DESCPINQ) values ('6','Karina','Rodriguez Luyo',to_date('11/01/01','DD/MM/RR'),'322244556','Casa grande con parrillas');
+Insert into EXAMORACLE.INQUILINO (CODINQ,NOMINQ,APEINQ,FNACINQ,TELFINQ,DESCPINQ) values ('7','Yakelin','Ordoñez Ramos',to_date('15/01/01','DD/MM/RR'),'99453345355','Casa llena de luces');
+Insert into EXAMORACLE.INQUILINO (CODINQ,NOMINQ,APEINQ,FNACINQ,TELFINQ,DESCPINQ) values ('8','Marcos','Manrrique Santiago',to_date('22/02/01','DD/MM/RR'),'98445345435','Sin detalles');
+Insert into EXAMORACLE.INQUILINO (CODINQ,NOMINQ,APEINQ,FNACINQ,TELFINQ,DESCPINQ) values ('9','Jhordy','Arbizu Levano',to_date('18/05/01','DD/MM/RR'),'99354765465','Casa pequeñas ');
+Insert into EXAMORACLE.INQUILINO (CODINQ,NOMINQ,APEINQ,FNACINQ,TELFINQ,DESCPINQ) values ('10','Martin','Garritsen Luyo',to_date('17/06/01','DD/MM/RR'),'23757876575','Sin detalles');
