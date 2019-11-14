@@ -1,4 +1,4 @@
-CREATE OR REPLACE FORCE VIEW examoracle.vw_agencias (codalq,nombre_inquilino,apellido_inquilino,n_vivienda,calle,poblacion,fecha_inicio,fecha_fin,dias_alquilados) AS
+CREATE OR REPLACE FORCE VIEW examoracle.vw_duracion_alquiler (codalq,nombre_inquilino,apellido_inquilino,n_vivienda,calle,poblacion,fecha_inicio,fecha_fin,dias_alquilados) AS
 SELECT
     CODALQ,
     IQ.NOMINQ AS NOMBRE_INQUILINO,
