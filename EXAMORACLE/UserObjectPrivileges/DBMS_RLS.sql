@@ -1,1 +1,0 @@
-GRANT EXECUTE ON sys.dbms_rls TO examoracle;

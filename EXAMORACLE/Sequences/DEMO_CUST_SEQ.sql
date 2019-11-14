@@ -1,1 +1,0 @@
-CREATE SEQUENCE examoracle.demo_cust_seq;
